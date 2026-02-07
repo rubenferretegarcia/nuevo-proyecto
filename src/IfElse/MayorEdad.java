@@ -21,16 +21,17 @@ public class MayorEdad {
         edad = sc.nextInt();
 
         //3º ahora con los datos recogidos procedemos a mostrar si puede o no puede pasar
-        if (edad>0 && edad<18){
+        if (edad<=0){
+            System.out.println("Edad no valida :(");
+
+        }
+
+        else if (edad<18){
             System.out.println("Lo siento no puedes pasar :|");
         }
 
-        if (edad>=18){
+        else {
             System.out.println("Puedes pasar :)");
-        }
-
-        if (edad<=0){
-            System.out.println("Edad no valida :(");
         }
 
     }
