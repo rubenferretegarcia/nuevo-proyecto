@@ -1,4 +1,4 @@
-package bucles;
+package Practicas.bucles;
 
 import java.util.Scanner;
 public class Notas {
@@ -75,7 +75,7 @@ public class Notas {
 
             media = suma / alumnos;
 
-            //8º hacemos 1 bucles for y con las condiciones obtenemos los resultados de nota mas alta, nota mas baja y si estan supensos o aprobados
+            //8º hacemos 1 Practicas.Switchcase.bucles for y con las condiciones obtenemos los resultados de nota mas alta, nota mas baja y si estan supensos o aprobados
             for (int i = 0; i < notas.length; i++){
                 if(maxnota <= notas[i]){
                     maxnota = notas[i];

@@ -1,4 +1,4 @@
-package bucles;
+package Practicas.bucles;
 import java.util.Scanner;
 
 public class cajero {

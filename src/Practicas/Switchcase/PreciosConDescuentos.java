@@ -1,4 +1,4 @@
-package Switchcase;
+package Practicas.Switchcase;
 import java.util.Scanner;
 public class PreciosConDescuentos {
     public static void main(String[] args) {

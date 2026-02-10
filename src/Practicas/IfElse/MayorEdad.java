@@ -1,4 +1,4 @@
-package IfElse;
+package Practicas.IfElse;
 
 import java.util.Scanner;
 public class MayorEdad {
