@@ -41,11 +41,6 @@ Actualmente incluye ejercicios sobre:
 
 ---
 
-## 💻 Cómo ejecutar
-
-1. Clona o descarga el repositorio.
-2. Abre el proyecto en tu IDE de Java (IntelliJ IDEA, Eclipse, etc.).
-3. Ejecuta la clase `AdivinarNumeros.java` ubicada en:
 
 
 
