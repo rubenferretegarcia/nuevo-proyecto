@@ -44,7 +44,9 @@ public class AdivinarNumeros {
 
         if (intento != noculto){
             System.out.println("PERDISTE");
+            System.out.println("el numero oculto era el: " + noculto);
         }
+
 
 
 
